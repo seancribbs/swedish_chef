@@ -1,0 +1,6 @@
+% -*- mode: erlang -*-
+{["./*"], 
+ [{i, "include"},
+  {outdir, "../ebin_tests"},
+  debug_info]
+}.
