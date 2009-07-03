@@ -2,3 +2,4 @@ priv/log
 src/*.beam
 ebin/*
 ebin_tests/*
+deps/webmachine
